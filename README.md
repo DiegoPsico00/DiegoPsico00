@@ -17,4 +17,4 @@ herramientas y lenguajes, como R, SQL, PowerBi, Google Looker Studio entre otras
 que he realizado son:</p>
 
 * Esta es una prueba: [Libro](https://lookerstudio.google.com/navigation/reporting)
-* Esta es una prueba: [:elephant:](https://lookerstudio.google.com/reporting/37759354-38be-427d-8960-9d51ba5a4271/page/p_liy2lgr16c)
+* Esta es una prueba2: [:elephant: elefante](https://lookerstudio.google.com/reporting/37759354-38be-427d-8960-9d51ba5a4271/page/p_liy2lgr16c)
