@@ -1,9 +1,7 @@
 ## 👋 ¡Hola!
-<picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://nodd3r.com/media/blog/Portadas_blog_1.png">
-</picture>
-
-
+<p align="center">
+  <img src="https://github.com/DiegoPsico00/Imagenes-Git/blob/e247cf5dc66d9a7e679c976cc0ec60550d921f3c/Portadas_blog_1.png">
+</p>
 
 <p>Estudié una licenciatura y posgrado en ingeniería, pero mi verdadera pasión radica en análisis y aplicación de tecnología a la información para generar ciencia de datos.<p>
 
